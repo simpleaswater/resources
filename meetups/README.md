@@ -2,7 +2,7 @@
 
 The folder contains list of Web 3.0 related Meetups.
 
-***Contribute to this repository and get a Free T-Shirt. [See here how you can get one]().***
+***Contribute to this repository and get a Free T-Shirt. [See here how you can get one](https://hacktoberfest.digitalocean.com/faq#general).***
 
 #### How to add a Meetup?
 

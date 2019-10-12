@@ -4,7 +4,7 @@ You can Open and Browse the [`project_name`](./project_name) folder to see a job
 
 You can also see the [IPFS](../ipfs) Job Posts for a reference.
 
-***Contribute to this repository and get a Free T-Shirt. [See here how you can get one]().***
+***Contribute to this repository and get a Free T-Shirt. [See here how you can get one](https://hacktoberfest.digitalocean.com/faq#general).***
 
 Each Job Posting has following Sections.
 

@@ -4,7 +4,7 @@ You can Open and Browse the [`project_name`](./project_name) folder to see a gra
 
 You can also see the [IPFS](../ipfs) Grants for a reference.
 
-***Contribute to this repository and get a Free T-Shirt. [See here how you can get one]().***
+***Contribute to this repository and get a Free T-Shirt. [See here how you can get one](https://hacktoberfest.digitalocean.com/faq#general).***
 
 Each Grant has following Sections.
 
@@ -22,7 +22,7 @@ Each Grant has following Sections.
 -------------------------------------------------------------
 
 #### Instructions: 
-- The file name for each grant post should be the grant name, as such there is no file name collosion.
+- The file name for each grant post should be the grant name as such there is no file name collision.
 - Sections with [REQUIRED] label should be present in each grant file.
 - Sections with [OPTIONAL] label can be added in case they are specified in the grant details.
 
