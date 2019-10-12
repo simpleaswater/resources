@@ -2,7 +2,7 @@
 
 This folder contains all the project-wise job posts. You can add your Jobs by following the instructions below. 
 
-***Contribute to this repository and get a Free T-Shirt. [See here how you can get one](https://hacktoberfest.digitalocean.com/faq#general).***
+***Contribute to this repository and get a Free T-Shirt. [See here how you can get one](https://www.freecodecamp.org/news/p/ea605b71-9f66-4faa-a1f8-29ed8b251be6/).***
 
 #### How To add Jobs?
 

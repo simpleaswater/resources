@@ -2,7 +2,7 @@
 
 The folder contains a template of Web 3.0 related hackathon.
 
-***Contribute to this repository and get a Free T-Shirt. [See here how you can get one](https://hacktoberfest.digitalocean.com/faq#general).***
+***Contribute to this repository and get a Free T-Shirt. [See here how you can get one](https://www.freecodecamp.org/news/p/ea605b71-9f66-4faa-a1f8-29ed8b251be6/).***
 
 #### How to add a Hackathon?
 

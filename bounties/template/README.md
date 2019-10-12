@@ -4,7 +4,7 @@ You can Open and Browse the [`project_name`](./project_name) folder to see a Bou
 
 You can also see the [IPFS](../ipfs) Bounties for a reference.
 
-***Contribute to this repository and get a Free T-Shirt. [See here how you can get one](https://hacktoberfest.digitalocean.com/faq#general).***
+***Contribute to this repository and get a Free T-Shirt. [See here how you can get one](https://www.freecodecamp.org/news/p/ea605b71-9f66-4faa-a1f8-29ed8b251be6/).***
 
 Each Bounties has following Sections.
 
