@@ -1,0 +1,11 @@
+HACKATHON_NAME: LNMHacks2019
+
+LINK_TO_HACKATHON_WEBSITE: https://lnmhacks.com/
+
+HACKATHON_DATES: October 19, 2019 - October 20, 2019
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: Rupa ki Nangal, Post-Sumel, Via-Jamdoli, Sumel, Jaipur, Rajasthan 302031
+
+LAST_APPLICATION_DATETIME: October 13th, 2019
