@@ -1,0 +1,11 @@
+HACKATHON_NAME: Hack For Women
+
+LINK_TO_HACKATHON_WEBSITE: https://girlscriptsummit.com/hackathon.html
+
+HACKATHON_DATES: 19/10/2019 - 20/10/2019
+
+HACKATHON_TYPE: PHSYICAL
+
+HACKATHON_LOCATION: Delhi Technological University
+
+LAST_APPLICATION_DATETIME: 19/10/2019
