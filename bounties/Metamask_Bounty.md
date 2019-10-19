@@ -1,4 +1,3 @@
-
 BOUNTY_NAME : Generating Transaction To Burn Address Via Metamask
 
 LINK_TO_ORIGINAL_BOUNTY_ANNOUNCEMENT : https://gitcoin.co/issue/nuo-admin/frontend/1/3521
