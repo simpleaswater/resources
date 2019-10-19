@@ -1,0 +1,12 @@
+
+HACKATHON_NAME: web3-world
+
+LINK_TO_HACKATHON_WEBSITE: https://hackathons.gitcoin.co/web3-world/
+
+HACKATHON_DATES: October 28 - November 11, 2019
+
+HACKATHON_TYPE: VIRTUAL
+
+HACKATHON_LOCATION: Online
+
+LAST_APPLICATION_DATETIME: November 11, 2019
