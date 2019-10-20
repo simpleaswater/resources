@@ -1,4 +1,4 @@
-POSITION_NAME: Blockchain Developer(With J2EE Development background)
+POSITION_NAME: Blockchain Developer(With J2EE Development background and at least 2 year work experince)
 
 LINK_TO_ORIGINAL_JOB_POSTING: [Click Here](https://www.glassdoor.co.in/job-listing/blockchain-developer-with-j2ee-development-background-bosch-group-JV_IC2940587_KO0,53_KE54,65.htm?jl=3343247719&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
