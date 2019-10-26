@@ -1,0 +1,13 @@
+HACKATHON_NAME: BLOCKCHAIN HACKATHON SERIES MEDELLIN 2019
+
+LINK_TO_HACKATHON_WEBSITE: https://hacklatam.com/blockchain/medellin2019.html
+
+HACKATHON_DATES: From Nov 22nd 2019 To Nov 23rd 2019
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: Advance Technology Center de Accenture en Ruta N, Cl. 67 #52-20, Medellín
+
+LAST_APPLICATION_DATETIME: Nov 22nd 2019
+
+SPONSORS: Organized by HackLatAm
