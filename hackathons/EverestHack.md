@@ -1,0 +1,11 @@
+HACKATHON_NAME: Everest Hack
+
+LINK_TO_HACKATHON_WEBSITE: https://everest-hack.com/
+
+HACKATHON_DATES: July 19 - July 21, 2019
+
+HACKATHON_TYPE: Physical
+
+HACKATHON_LOCATION: Kathmandu, Nepal
+
+LAST_APPLICATION_DATETIME: June 30th, 2019
