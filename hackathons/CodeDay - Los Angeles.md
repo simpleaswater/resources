@@ -1,0 +1,11 @@
+HACKATHON_NAME: CodeDay Los Angeles
+
+LINK_TO_HACKATHON_WEBSITE: https://www.codeday.org/la?
+
+HACKATHON_DATES: 9 November 2019 - 10 November 2019
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: Hub101 31416 Agoura Rd 105c, Westlake Village, USA
+
+LAST_APPLICATION_DATETIME: 9 November 2019
