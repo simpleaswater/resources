@@ -1,0 +1,11 @@
+HACKATHON_NAME: QuestHacks
+
+LINK_TO_HACKATHON_WEBSITE: https://questhacks.org/?
+
+HACKATHON_DATES: 16 November, 2019
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: Valley Christian High School 100 Skyway Dr, CA 95111, San Jose, USA
+
+LAST_APPLICATION_DATETIME: 15 November, 2019
