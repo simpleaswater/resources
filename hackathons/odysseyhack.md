@@ -1,0 +1,12 @@
+HACKATHON_NAME: ODYSSEYHACK
+
+LINK_TO_HACKATHON_WEBSITE: https://polaris.odyssey.org/#hackathon
+
+HACKATHON_DATES: APRIL 2-6 , 2020
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: Groningen, The Netherlands
+
+LAST_APPLICATION_DATETIME: open from January 20 until February 24
+
