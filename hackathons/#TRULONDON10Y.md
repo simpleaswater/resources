@@ -1,0 +1,11 @@
+HACKATHON_NAME: #TRULONDON10Y
+
+LINK_TO_HACKATHON_WEBSITE: https://www.eventbrite.co.uk/e/trulondon10y-tickets-61211329735
+
+HACKATHON_DATES: 7 November, 2019
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: The Boiler House, 152 Brick Lane, London, E1 6RU, United Kingdom
+
+LAST_APPLICATION_DATETIME: 6 November, 2019
