@@ -1,0 +1,11 @@
+HACKATHON_NAME: BuildNU
+
+LINK_TO_HACKATHON_WEBSITE: https://localhackday.mlh.io/build/locations/2385
+
+HACKATHON_DATES: December 2, 9am - 9pm, 2019
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: Evanston, United States
+
+LAST_APPLICATION_DATETIME: Ongoing
