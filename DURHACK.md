@@ -1,0 +1,11 @@
+HACKATHON_NAME: DurHack
+
+LINK_TO_HACKATHON_WEBSITE: https://durhack.com/
+
+HACKATHON_DATES: November 23rd - 24th, 2019
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: Department of Earth Sciences, Durham University, UK
+
+LAST_APPLICATION_DATETIME: Ongoing
