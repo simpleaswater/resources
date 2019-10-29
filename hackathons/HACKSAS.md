@@ -1,0 +1,11 @@
+HACKATHON_NAME: HackSAS
+
+LINK_TO_HACKATHON_WEBSITE: https://localhackday.mlh.io/build/locations/2326
+
+HACKATHON_DATES: December 7th 9am - 5pm, 2019
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: NITDA Yola North ICT Center, Yola, Nigeria
+
+LAST_APPLICATION_DATETIME: Ongoing
