@@ -1,0 +1,11 @@
+MEETUP_NAME: IT talk: « Comply or Die »
+
+LINK_TO_MEETUP_WEBSITE: https://www.meetup.com/pl-PL/DataArt-Wroclaw-IT-talk/events/265145080/
+
+MEETUP_DATE: 7.11.2019 18:00-20:00
+
+MEETUP_TYPE: PHYSICAL
+
+MEETUP_LOCATION: pl. Grunwaldzki 23, Wrocław
+
+LAST_APPLICATION_DATETIME: 7.11.2019
