@@ -1,0 +1,13 @@
+HACKATHON_NAME: iHack
+
+LINK_TO_HACKATHON_WEBSITE: https://ihack.ecell.in/
+
+HACKATHON_DATES: January 19 - 20, 2019
+
+HACKATHON_TYPE: PHYSICAL
+
+HACKATHON_LOCATION: IIT Bombay
+
+LAST_APPLICATION_DATETIME: January 20th, 2019
+
+SPONSORS: DevFolio, bitgrit, infineon, wipro, Matic
